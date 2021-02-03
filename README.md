@@ -1,1 +1,2 @@
-# mdi508-s21-notebooks
+# Code Examples for MDI 508, Spring 2021
+
